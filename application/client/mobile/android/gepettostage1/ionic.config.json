@@ -1,0 +1,7 @@
+{
+  "name": "gepettostage1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
